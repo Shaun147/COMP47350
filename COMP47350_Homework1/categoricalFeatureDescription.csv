@@ -1,0 +1,18 @@
+,count,unique,top,freq
+case_month,17999,35,2022-01,2232
+res_state,17998,49,NY,1772
+state_fips_code,17998.0,49.0,36.0,1772.0
+res_county,16877,862,MIAMI-DADE,341
+county_fips_code,16877.0,1203.0,12086.0,341.0
+age_group,17860,5,18 to 49 years,6796
+sex,17638,4,Female,9121
+race,15796,8,White,11167
+ethnicity,15606,4,Non-Hispanic/Latino,10871
+process,17999,10,Missing,16264
+exposure_yn,17999,3,Missing,15265
+current_status,17999,2,Laboratory-confirmed case,15043
+symptom_status,17999,4,Symptomatic,8811
+hosp_yn,17999,4,No,9181
+icu_yn,17999,4,Missing,13882
+death_yn,17999,2,No,13762
+underlying_conditions_yn,1683,2,Yes,1666
